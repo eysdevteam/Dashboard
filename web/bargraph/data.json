@@ -1,0 +1,9 @@
+[
+    {"variable" : "v17", "value": 19 , "min": 5, "max": 35},
+    {"variable" : "v19", "value": 29, "min": 10, "max": 45},
+    {"variable" : "v20", "value": 39, "min": 15, "max": 55},
+    {"variable" : "v23", "value": 49, "min": 15, "max": 65},
+    {"variable" : "v24", "value": 59, "min": 25, "max": 75},
+    {"variable" : "v26", "value": 90, "min": 75, "max": 100},
+    {"variable" : "v29", "value": 29, "min": 10, "max": 55}
+]
